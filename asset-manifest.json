@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-sandbox-app/static/css/main.25b26191.css",
+    "main.js": "/redux-sandbox-app/static/js/main.1f1b977e.js",
+    "index.html": "/redux-sandbox-app/index.html",
+    "main.25b26191.css.map": "/redux-sandbox-app/static/css/main.25b26191.css.map",
+    "main.1f1b977e.js.map": "/redux-sandbox-app/static/js/main.1f1b977e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b26191.css",
+    "static/js/main.1f1b977e.js"
+  ]
+}
